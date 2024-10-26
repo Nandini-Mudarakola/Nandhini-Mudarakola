@@ -1,4 +1,3 @@
-
 ![logo](https://github.com/Nandini-Mudarakola/Nandhini-Mudarakola/blob/main/Minimalist%20business%20personal%20profile%20linkedin%20banner.png)
 <h1 align="center">Hi 👋, I'm Nandini Mudarakola</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
